@@ -1,5 +1,7 @@
 # QR PDF Generator
 
+> Public experimental source: see [PUBLICATION.md](PUBLICATION.md) for actual checks, known defects, restored modules and operational limits. Earlier audit decisions are historical.
+
 Простое GUI-приложение на Python: принимает список строк или первый столбец Excel-файла и создаёт PDF с QR-кодом и подписью для каждой строки.
 
 ## Почему проект можно публиковать
